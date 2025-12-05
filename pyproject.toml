@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "lukeconnolly-streamrip"
-version = "1.0.0"
+name = "streamrip"
+version = "2.2.0"
 description = "A fast, all-in-one music downloader for Qobuz, Deezer, Tidal, and SoundCloud"
-authors = ["luke <lukeconnolly1111@gmail.com>"]
+authors = ["nathom <nathanthomas707@gmail.com>"]
 license = "GPL-3.0-only"
 readme = "README.md"
-homepage = "https://github.com/lukeconnolly2/streamrip"
-repository = "https://github.com/lukeconnolly2/streamrip"
+homepage = "https://github.com/nathom/streamrip"
+repository = "https://github.com/nathom/streamrip"
 include = ["src/config.toml"]
 keywords = ["hi-res", "free", "music", "download"]
 classifiers = [
